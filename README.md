@@ -38,7 +38,3 @@ _Estou Me Graduando em Analise e Desenvolvimento de sistemas (1/5) na UNIVERSIDA
 
 <br>
 
-### Skills 👽
-
-![KaiqueVenandi GitHub stats](https://github-readme-stats.vercel.app/api?username=[KaiqueVenandi](https://github.com/KaiqueVenandi)&show_icons=true&theme=dark)   <img width='272em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=[KaiqueVenandi](https://github.com/KaiqueVenandi)&langs_count=10&layout=compact&theme=dark" />
-</div>
