@@ -1,40 +1,58 @@
-## Olá! Me Chamo Kaique ✌🏼
-_Estou Me Graduando em Analise e Desenvolvimento de sistemas (1/5) na UNIVERSIDADE PARANAENSE - UNIPAR_ 
+# 👨‍💻 Kaique.dev
 
----
-### Tecnologias 👾
+🎓 **Estudante de Inteligência Artificial** (1/8)
+💡 Apaixonado por tecnologia, automação e desenvolvimento de soluções práticas.
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<br>
+Atualmente estudando **programação, lógica computacional e desenvolvimento de sistemas**, buscando evoluir diariamente através de projetos e estudos práticos.
 
 ---
 
-### Estou estudando 📚
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+# 🚀 Tecnologias e Ferramentas
 
+### Linguagens e Tecnologias
 
-<br>
+| Tecnologia | Nível        |
+| ---------- | ------------ |
+| 🐍 Python  | 🟩 Iniciante |
+| 📊 Pandas  | 🟩 Iniciante |
+| 🤖 Arduino | 🟩 Iniciante |
 
+---
+
+# 🧠 Áreas de Estudo
+
+📚 Atualmente focado em aprender e evoluir em:
+
+* Inteligência Artificial
+* Análise de Dados
+* Automação
+* Lógica de Programação
+* Desenvolvimento de Software
+
+---
+
+# 📊 Estatísticas GitHub
+
+![Kaique GitHub stats](https://github-readme-stats.vercel.app/api?username=kaique.dev\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaique.dev\&layout=compact\&theme=tokyonight)
+
+---
+
+# 🛠 Projetos em desenvolvimento
+
+🚧 Atualmente trabalhando em projetos de estudo envolvendo:
+
+* Scripts em **Python**
+* Manipulação de dados com **Pandas**
+* Projetos de **automação com Arduino**
+
+---
+
+# 🌎 Contato
+
+📬 Em breve novas formas de contato e portfólio.
+
+---
+
+⭐ *Sempre aprendendo, construindo e evoluindo.*
