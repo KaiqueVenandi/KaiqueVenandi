@@ -31,21 +31,7 @@ Atualmente estudando **programação, lógica computacional e desenvolvimento de
 
 ---
 
-# 📊 Estatísticas GitHub
 
-![Kaique GitHub stats](https://github-readme-stats.vercel.app/api?username=kaique.dev\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaique.dev\&layout=compact\&theme=tokyonight)
-
----
-
-# 🛠 Projetos em desenvolvimento
-
-🚧 Atualmente trabalhando em projetos de estudo envolvendo:
-
-* Scripts em **Python**
-* Manipulação de dados com **Pandas**
-* Projetos de **automação com Arduino**
 
 ---
 
