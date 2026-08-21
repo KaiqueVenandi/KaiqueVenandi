@@ -1,6 +1,6 @@
 # 👨‍💻 Kaique.dev
 
-🎓 **Estudante de Inteligência Artificial** (1/8)
+🎓 **Estudante de Inteligência Artificial** (2/8)
 💡 Apaixonado por tecnologia, automação e desenvolvimento de soluções práticas.
 
 Atualmente estudando **programação, lógica computacional e desenvolvimento de sistemas**, buscando evoluir diariamente através de projetos e estudos práticos.
@@ -15,7 +15,7 @@ Atualmente estudando **programação, lógica computacional e desenvolvimento de
 | ---------- | ------------ |
 | 🐍 Python  | 🟩 Iniciante |
 | 📊 Pandas  | 🟩 Iniciante |
-| 🤖 Arduino | 🟩 Iniciante |
+
 
 ---
 
